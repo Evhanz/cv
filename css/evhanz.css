@@ -1,0 +1,125 @@
+.bar{
+    float: right;
+
+}
+
+.bar-skill{
+    width: 200px;
+    background-color: red;
+}
+
+.cont{
+
+}
+
+.conti{
+    text-align: center;
+    margin-top: 2em;
+}
+
+.cont .type{
+
+    clear: both;
+    margin: 2em;
+
+}
+
+
+.head h4{
+
+    margin-top: 1em;
+
+}
+.head h4 .d {
+
+    background-color: #51a351;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+.head h4 .f {
+
+    background-color: #E33036;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+.head h4 .bd {
+
+    background-color: #326690;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+.head h4 .o {
+
+    background-color: #15A8AE;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+.laravel{
+    background-color: #000;
+    border:8px solid #1b1b1b ;
+}
+
+.lp{
+    background-color: #1D7D7D;
+    border:8px solid #1b1b1b ;
+
+}
+
+.skill-point{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    overflow: hidden;
+
+}
+
+.sk{
+    border-radius: 50%;
+    float: right;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    width: 116px;
+}
+
+.sk img {
+    padding: 5px;
+    width: 100px;
+}
+.sk:hover {
+    border:8px solid #fff;
+}
+
+.sk-lvl{
+   padding-top: 0;
+}
+
+.span3 img {
+    border:6px solid #678194;
+}
+
+.progress-info.progress-striped .bar, .progress-striped .bar-info {
+    background-color: #353535;
+}
+
